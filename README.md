@@ -6,16 +6,18 @@
 </h1>
 <div align="center" width="50">
 
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+</div>
 <p align="left">
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
    
 <p align="left">
    💬 Ask me about
+  
    - Python, Django, Flask
    - Web development (HTML, CSS, JavaScript, React)
    - Machine Learning basics
