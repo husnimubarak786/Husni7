@@ -1,4 +1,4 @@
-# Husni7
+# Husni Mubarak
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Husni+Mubarak....;Nice+to+meet+you!&center=true&size=30">
